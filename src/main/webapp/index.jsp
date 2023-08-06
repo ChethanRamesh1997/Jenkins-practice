@@ -3,10 +3,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Welcome to Microdegree BANK</title>
+<title>Welcome to Mumbai</title>
 <style>
   body {
-    background-color: white;
+    background-color: blue;
   }
 </style>
 </head>
