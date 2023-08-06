@@ -11,7 +11,7 @@
 </style>
 </head>
 <body>
-<h1>Welcome to chethan BANK</h1>
+<h1>Welcome to Microo BANK</h1>
 <p>This is a sample Welcome to chethan BANK application for 2023 July Morrning Batch.</p>
 </body>
 </html>
